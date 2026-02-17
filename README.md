@@ -12,7 +12,7 @@ playwright install chromium
 ## การใช้งาน
 
 ```bash
-pytest playwright_microsoft_login.py -s -v
+pytest scripts/sritrang_critical_function.py -s -v
 ```
 
 ## Test Cases

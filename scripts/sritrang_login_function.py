@@ -193,4 +193,4 @@ def test_microsoft_365_button(page: Page):
 
 if __name__ == '__main__':
     # สำหรับรันเทสสดๆ
-    os.system("pytest playwright_microsoft_login.py --html=qa_report.html --self-contained-html")
+    os.system("pytest scripts/sritrang_critical_function.py --html=qa_report.html --self-contained-html")
